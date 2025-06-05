@@ -14,7 +14,7 @@ The goal of this project is to develop a search-based intelligent agent that con
 
 - **Breadth-First Search (BFS)** 
 - **Depth-First Search (DFS)** 
-- **A* Search** 
+- **A Star Search** 
 - **Heuristics**:
   - **Manhattan Distance**
   - **Euclidean Distance**
